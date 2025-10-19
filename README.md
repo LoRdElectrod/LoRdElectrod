@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Sharma</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on Handwriting Detection for Pharma Company [Text Extraction](https://github.com/LoRdElectrod/Text_Extraction-Prototype-)
+- 🔭 I’m currently working on London's Covid-19 Data Analysis.
 
 - 🌱 I’m currently learning **Flask, Reinforcement Learning, Data Analytics**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LoRdElectrod/](https://github.com/LoRdElectrod/)
 
-- 💬 Ask me about **Python, Machine Learning, Statistics**
+- 💬 Ask me about **Python,R, SQL, Machine Learning, Statistics**
 
 - 📫 How to reach me **sharmasuyash135@gmail.com**
 
