@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on London's Covid-19 Data Analysis.
 
-- 🌱 I’m currently learning **Flask, Reinforcement Learning, Data Analytics**
+- 🌱 I’m currently learning **Deep Learning, Flask, AWS**
 
-- 🤝 I’m looking for help with **Speech Recognition Project**
+- 🤝 I’m looking for help with **XgBoost Model Trainings**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LoRdElectrod/](https://github.com/LoRdElectrod/)
 
