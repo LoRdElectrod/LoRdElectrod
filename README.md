@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suyash Sharma</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on London's Covid-19 Data Analysis.
+- 🔭 I’m currently working on London's Online Shoppers Purchasing Intension.
 
 - 🌱 I’m currently learning **Deep Learning, Flask, AWS**
 
-- 🤝 I’m looking for help with **XgBoost Model Trainings**
+- 🤝 I’m looking for help with **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LoRdElectrod/](https://github.com/LoRdElectrod/)
 
