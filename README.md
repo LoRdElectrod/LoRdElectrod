@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on London's Online Shoppers Purchasing Intension.<br><br>🌱 I’m currently learning Deep Learning, Flask, AWS<br><br>🤝 I’m looking for help with Agentic AI<br><br>👨‍💻 All of my projects are available at https://github.com/LoRdElectrod/<br><br>💬 Ask me about Python,R, SQL, Machine Learning, Statistics<br>
+🔭 I’m currently working on London's Online Shoppers Purchasing Intension.<br><br>🌱 I’m currently learning Deep Learning, Flask, AWS<br><br>🤝 I’m looking for help with Agentic AI<br><br>👨‍💻 All of my projects are available at [https://portfolio-rho-opal-31.vercel.app/]<br><br>💬 Ask me about Python,R, SQL, Machine Learning, Statistics<br>
 
 
 ## 🌐 Socials:
